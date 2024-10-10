@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\services\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\services\\implementations\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\billiardsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\billiardsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\billiardsmanagerment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\billiardsmanagerment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\billiardsmanagerment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\billiardsmanagerment.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\billiardsmanagerment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\billiardsmanagerment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|c:\\users\\caokh\\desktop\\billiardsmanagerment\\billiardsmanagerment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F91ECCA1-4C8E-4BED-B876-BB13A7B395B0}|BilliardsManagerment\\BilliardsManagerment.csproj|solutionrelative:billiardsmanagerment\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\User.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:28:52.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Zone.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\Zone.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Zone.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\Zone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:28:51.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BilliardsManagerment",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.csproj",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\BilliardsManagerment.csproj",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.csproj",
+              "RelativeToolTip": "BilliardsManagerment\\BilliardsManagerment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T15:28:42.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BilliardsManagerment.http",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.http",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\BilliardsManagerment.http",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.http",
+              "RelativeToolTip": "BilliardsManagerment\\BilliardsManagerment.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T15:28:33.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:18:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Services\\Implementations\\RoleService.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Services\\Implementations\\RoleService.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Services\\Implementations\\RoleService.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Services\\Implementations\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:06:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Services\\Interfaces\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Services\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Services\\Interfaces\\IRoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:05:47.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Program.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Program.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Program.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:24:17.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\appsettings.json",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\appsettings.json",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\appsettings.json",
+              "RelativeToolTip": "BilliardsManagerment\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T14:52:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BilliardsManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\BilliardsManagementContext.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\BilliardsManagementContext.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\BilliardsManagementContext.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\BilliardsManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:38:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Transaction.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:28:52.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Booking.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:28:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BilliardsManagerment.csproj",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.csproj",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\BilliardsManagerment.csproj",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\BilliardsManagerment.csproj",
+              "RelativeToolTip": "BilliardsManagerment\\BilliardsManagerment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T14:35:32.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\WeatherForecast.cs",
+              "RelativeToolTip": "BilliardsManagerment\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:24:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:23:56.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\appsettings.Development.json",
+              "RelativeToolTip": "BilliardsManagerment\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T14:45:19.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "BilliardsManagerment\\Entities\\Branch.cs",
+              "ToolTip": "C:\\Users\\caokh\\Desktop\\BilliardsManagerment\\BilliardsManagerment\\Entities\\Branch.cs",
+              "RelativeToolTip": "BilliardsManagerment\\Entities\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:47:39.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
